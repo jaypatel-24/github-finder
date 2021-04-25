@@ -1,8 +1,9 @@
-#GITHUB FINDER
-## This application helps us in finding any github user's profile.
+# GITHUB FINDER
+## This application helps us in finding any github user's profile. This application is build using react.
+### Live preview: `https://githubfinder2403.netlify.app/`
 
 
-# Getting Started with Create React App
+#Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
