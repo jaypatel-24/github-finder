@@ -1,6 +1,6 @@
 # GITHUB FINDER
 ## This application helps us in finding any github user's profile. This application is build using react.
-### Live preview: `https://githubfinder2403.netlify.app/`
+### Live preview: [a link] `https://githubfinder2403.netlify.app/`
 
 
 
